@@ -1,11 +1,10 @@
 # Fashion-Mnist
 
 
----
 
 ### 👕 Fashion MNIST Classifier – README.md
 
-```markdown
+
 # 👕 Fashion MNIST Classifier
 
 A CNN-based project to classify **10 fashion categories** (shirts, trousers, shoes, etc.) using the **Fashion MNIST dataset (60K images)**.  
@@ -24,6 +23,5 @@ Includes an interactive React.js dashboard for prediction visualization.
 
 ## ⚙️ How to Run
 1. Clone the repo:
-   ```bash
    git clone https://github.com/Painameghana/Fashion-Mnist.git
    cd Fashion-Mnist
